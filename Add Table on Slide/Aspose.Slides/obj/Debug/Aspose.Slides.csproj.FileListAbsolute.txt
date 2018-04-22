@@ -1,0 +1,21 @@
+D:\Day User\atul bisht\Personnel\Azure\ppt\Aspose.Slides-for-.NET-master\Plugins\Aspose.Slides Vs VSTO Presentations\Code Comparison of Common Features\Add Table on Slide\Aspose.Slides\obj\Debug\Aspose.Slides.csproj.CoreCompileInputs.cache
+D:\Day User\atul bisht\Personnel\Azure\ppt\Aspose.Slides-for-.NET-master\Plugins\Aspose.Slides Vs VSTO Presentations\Code Comparison of Common Features\Add Table on Slide\Aspose.Slides\bin\Debug\Aspose.Slides.exe.config
+D:\Day User\atul bisht\Personnel\Azure\ppt\Aspose.Slides-for-.NET-master\Plugins\Aspose.Slides Vs VSTO Presentations\Code Comparison of Common Features\Add Table on Slide\Aspose.Slides\bin\Debug\Aspose.Slides.exe
+D:\Day User\atul bisht\Personnel\Azure\ppt\Aspose.Slides-for-.NET-master\Plugins\Aspose.Slides Vs VSTO Presentations\Code Comparison of Common Features\Add Table on Slide\Aspose.Slides\bin\Debug\Aspose.Slides.pdb
+D:\Day User\atul bisht\Personnel\Azure\ppt\Aspose.Slides-for-.NET-master\Plugins\Aspose.Slides Vs VSTO Presentations\Code Comparison of Common Features\Add Table on Slide\Aspose.Slides\bin\Debug\Aspose.Slides.dll
+D:\Day User\atul bisht\Personnel\Azure\ppt\Aspose.Slides-for-.NET-master\Plugins\Aspose.Slides Vs VSTO Presentations\Code Comparison of Common Features\Add Table on Slide\Aspose.Slides\bin\Debug\Aspose.Slides.xml
+D:\Day User\atul bisht\Personnel\Azure\ppt\Aspose.Slides-for-.NET-master\Plugins\Aspose.Slides Vs VSTO Presentations\Code Comparison of Common Features\Add Table on Slide\Aspose.Slides\obj\Debug\Aspose.Slides.exe
+D:\Day User\atul bisht\Personnel\Azure\ppt\Aspose.Slides-for-.NET-master\Plugins\Aspose.Slides Vs VSTO Presentations\Code Comparison of Common Features\Add Table on Slide\Aspose.Slides\obj\Debug\Aspose.Slides.pdb
+D:\Day User\atul bisht\Personnel\Azure\ppt\Aspose.Slides-for-.NET-master\Plugins\Aspose.Slides Vs VSTO Presentations\Code Comparison of Common Features\Add Table on Slide\Aspose.Slides\obj\Debug\Aspose.Slides.csprojResolveAssemblyReference.cache
+H:\Paper Work\.net core 2.0\arriva project\ppt generator\Add Table on Slide\Aspose.Slides\bin\Debug\Aspose.Slides.exe.config
+H:\Paper Work\.net core 2.0\arriva project\ppt generator\Add Table on Slide\Aspose.Slides\bin\Debug\Aspose.Slides.exe
+H:\Paper Work\.net core 2.0\arriva project\ppt generator\Add Table on Slide\Aspose.Slides\bin\Debug\Aspose.Slides.pdb
+H:\Paper Work\.net core 2.0\arriva project\ppt generator\Add Table on Slide\Aspose.Slides\bin\Debug\Aspose.Slides.dll
+H:\Paper Work\.net core 2.0\arriva project\ppt generator\Add Table on Slide\Aspose.Slides\bin\Debug\Newtonsoft.Json.dll
+H:\Paper Work\.net core 2.0\arriva project\ppt generator\Add Table on Slide\Aspose.Slides\bin\Debug\Aspose.Slides.xml
+H:\Paper Work\.net core 2.0\arriva project\ppt generator\Add Table on Slide\Aspose.Slides\bin\Debug\Newtonsoft.Json.xml
+H:\Paper Work\.net core 2.0\arriva project\ppt generator\Add Table on Slide\Aspose.Slides\obj\Debug\Aspose.Slides.csprojResolveAssemblyReference.cache
+H:\Paper Work\.net core 2.0\arriva project\ppt generator\Add Table on Slide\Aspose.Slides\obj\Debug\Aspose.Slides.csproj.CoreCompileInputs.cache
+H:\Paper Work\.net core 2.0\arriva project\ppt generator\Add Table on Slide\Aspose.Slides\obj\Debug\Aspose.Slides.csproj.CopyComplete
+H:\Paper Work\.net core 2.0\arriva project\ppt generator\Add Table on Slide\Aspose.Slides\obj\Debug\Aspose.Slides.exe
+H:\Paper Work\.net core 2.0\arriva project\ppt generator\Add Table on Slide\Aspose.Slides\obj\Debug\Aspose.Slides.pdb

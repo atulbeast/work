@@ -1,0 +1,3 @@
+D:\Day User\atul bisht\Personnel\Azure\ppt\Aspose.Slides-for-.NET-master\Plugins\Aspose.Slides Vs VSTO Presentations\Code Comparison of Common Features\Add Table on Slide\VSTO Presentation\obj\Debug\VSTO_Presentation.Properties.Resources.resources
+D:\Day User\atul bisht\Personnel\Azure\ppt\Aspose.Slides-for-.NET-master\Plugins\Aspose.Slides Vs VSTO Presentations\Code Comparison of Common Features\Add Table on Slide\VSTO Presentation\obj\Debug\VSTO Presentation.csproj.GenerateResource.Cache
+D:\Day User\atul bisht\Personnel\Azure\ppt\Aspose.Slides-for-.NET-master\Plugins\Aspose.Slides Vs VSTO Presentations\Code Comparison of Common Features\Add Table on Slide\VSTO Presentation\obj\Debug\VSTO Presentation.csproj.CoreCompileInputs.cache
